@@ -1,11 +1,12 @@
 # Machine-Learning
 
 Here you will find <br>
-1)Data splitting technique to fit any Machine Learning Model
-2)Classifier to identify File Type
+<ul>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <li>1)Data splitting technique to fit any Machine Learning Model</li>
+  <li>2)Classifier to identify File Type</li>
+</ul>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 Reference:
