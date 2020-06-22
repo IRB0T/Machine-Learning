@@ -1,10 +1,9 @@
-# Machine-Learning
+<h1>Machine-Learning + Cyber Security</h1>
 
-Here you will find <br>
+<h3>Here you will find</h3> <br>
 <ul>
-
-  <li>1)Data splitting technique to fit any Machine Learning Model</li>
-  <li>2)Classifier to identify File Type</li>
+  <li>Data splitting technique to fit any Machine Learning Model</li>
+  <li>Classifier to identify File Type</li>
 </ul>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
