@@ -6,7 +6,6 @@
   <li>Classifier to identify File Type</li>
 </ul>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 Reference:
 Machine Learning for Cybersecurity Cookbook : Book by Emmanuel Tsukerman
